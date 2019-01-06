@@ -1,24 +1,7 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my version of the [Blogger tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html) from Jumpstart Labs, so I could try out [Rails](https://rubyonrails.org/).
 
-Things you may want to cover:
+It's a basic blogger app. Have a look [here](https://pacific-retreat-33130.herokuapp.com/)! (Enjoy the absolutely horrific styling.)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+From The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
